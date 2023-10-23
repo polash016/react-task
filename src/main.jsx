@@ -7,6 +7,7 @@ import Index from "./components/Index.jsx";
 import Menu from "./components/Menu.jsx";
 import Problem1 from "./components/Problem-1.jsx";
 import Problem2 from "./components/Problem-2.jsx";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const router = createBrowserRouter([
   {
